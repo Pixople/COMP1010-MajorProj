@@ -1,6 +1,6 @@
 # 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃 THE PASSWORD VAULT 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃 #
 
-*By Lilly Nicholls 48862428 COMP1010 Major Project*
+*By Lilly Nic COMP1010 Major Project*
 
 ## What Problem Does My Application Solve? ##
 
@@ -128,4 +128,5 @@ Once you are in the VaultDriver.java file press RUN -> Start without Debugging O
 1. When prompted by the menu enter "5" to access the tips and tricks. 
 2. You will then be greeted by a list of different levels of passwords; easy, medium and hard, which you will be able to easily tell the difference between. It also displays the average length of all these passwords. 
 3. It will then show you a list of simple tips and tricks to ensure you are choosing good passwords!
+
 4. Don't forget to press enter to return back to the menu!
